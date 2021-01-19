@@ -6,5 +6,5 @@ Surface energy balance model of the snow water equivalent in a snowpack for a si
   
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Timbo-Stillinger/Lab2-SWE-EnergyBalanceModel/HEAD)  
 &uparrow;&uparrow;&uparrow;&uparrow;&uparrow;&uparrow;&uparrow;&uparrow;&uparrow;&uparrow;&uparrow;&uparrow;&uparrow;&uparrow;&uparrow;  
-## click the binder icon above to begin  
-This will open a window where a remote session will launch the tutorial
+click the binder icon above to begin. A remote python session will launch in your browser with the tutorial
+Be patient, sometimes it takes a while for the session to initalize the first few times. 
